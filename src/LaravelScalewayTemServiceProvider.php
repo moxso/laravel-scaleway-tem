@@ -15,7 +15,7 @@ class LaravelScalewayTemServiceProvider extends PackageServiceProvider
     {
         $package
             ->name('laravel-scaleway-tem')
-            ->hasConfigFile();
+            ->hasConfigFile('scaleway-tem');
     }
 
     public function bootingPackage(): void

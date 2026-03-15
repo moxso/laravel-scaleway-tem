@@ -18,10 +18,10 @@ You can install the package via composer:
 composer require moxso/laravel-scaleway-tem
 ```
 
-Publish the config file with:
+Next, you must publish the config file:
 
 ```bash
-php artisan vendor:publish --tag="laravel-scaleway-tem-config"
+php artisan vendor:publish --tag="scaleway-tem-config"
 ```
 
 This is the contents of the published config file:

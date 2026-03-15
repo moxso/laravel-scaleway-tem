@@ -1,3 +1,3 @@
 # Changelog
 
-All notable changes to `laravel-scaleway-tem` will be documented in this file.
+v1.0.0 - Initial release with basic functionality to send emails through Scaleway TEM.
